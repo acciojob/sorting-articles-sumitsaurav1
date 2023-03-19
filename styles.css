@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.body{
+	background-image:url("https://tse4.mm.bing.net/th?id=OIP.rvSWtRd_oPRTwDoTCmkP5gHaE8&pid=Api&P=0");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.div{
+	background-color:white;
+	display:inline-block;
+	width:auto;
+	padding-right:50px;
+	position:absolute;
+	left:50%;
+	transform:translate(-50%)
+	
+}
